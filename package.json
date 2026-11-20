@@ -1,0 +1,36 @@
+{
+  "name": "@compliancesearcher/mcp",
+  "version": "1.0.0",
+  "description": "Official Model Context Protocol (MCP) server for ComplianceSearcher — Sanctions (OFAC/UN/EU/UK/MASAK), SWIFT MT103/ISO 20022, BIC/FATF, HS/GTIP Export Control, TBML & 360° UBO Intelligence.",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "compliancesearcher-mcp": "./index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "compliance",
+    "sanctions",
+    "aml",
+    "kyc",
+    "kyb",
+    "pep",
+    "ubo",
+    "swift",
+    "mt103",
+    "iso20022",
+    "ofac",
+    "masak",
+    "regtech"
+  ],
+  "homepage": "https://compliancesearcher.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-yusufuysal/compliancesearcher-mcp.git"
+  }
+}
