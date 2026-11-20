@@ -4,7 +4,7 @@ Official Model Context Protocol (MCP) server for **[ComplianceSearcher](https://
 
 ## Quick Start (Free Community Tier — No API Key Required)
 
-Connect directly to our hosted **Streamable HTTP MCP** endpoint (`15 calls/day` free per IP):
+Connect directly to our hosted **Streamable HTTP MCP** endpoint (`5 calls/day` free per IP):
 
 ```json
 {

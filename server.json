@@ -21,7 +21,7 @@
       "environmentVariables": [
         {
           "name": "COMPLIANCESEARCHER_API_KEY",
-          "description": "Optional Enterprise API Key (cs_live_...). Omit for Free Community Tier (15 calls/day).",
+          "description": "Optional Enterprise API Key (cs_live_...). Omit for Free Community Tier (5 calls/day).",
           "isRequired": false,
           "isSecret": true
         }

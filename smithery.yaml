@@ -6,7 +6,7 @@ startCommand:
       apiKey:
         type: string
         title: ComplianceSearcher API Key (Optional)
-        description: Optional Enterprise API Key (cs_live_...). Leave blank to use Free Community Tier (15 calls/day).
+        description: Optional Enterprise API Key (cs_live_...). Leave blank to use Free Community Tier (5 calls/day).
   commandFunction: |-
     (config) => ({
       command: "npx",

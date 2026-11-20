@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 /* ComplianceSearcher MCP stdio-to-HTTP bridge (Zero dependencies, Node 18+)
- * Works out of the box in Free Community Tier (15 calls/day, no API key needed)
+ * Works out of the box in Free Community Tier (5 calls/day, no API key needed)
  * or with COMPLIANCESEARCHER_API_KEY for Enterprise Tier (360° dossiers, UBO, Batch). */
 const readline = require('readline');
 
